@@ -5,9 +5,9 @@ Este proyecto esta siendo desarrollado para uso exclusivo de los estudiantes de 
 Versión actual: 0.13
 
 Integrantes:
-  - Emmanuel Revuelta Rodríguez
   - Hugo Alexis Chiquito Onofre
   - Jesús Alexis Ramírez Navor
   - María Limón García
   - Mario A. Núñez Zavala
-  - Carlos Hernández Vivanco
+
+Este proyecto se trabajo por un mes, eres libre de usar el código y las interfaces que aquí se crearon.
